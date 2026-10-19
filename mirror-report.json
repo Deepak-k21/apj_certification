@@ -1,0 +1,672 @@
+[
+  {
+    "url": "http://www.apjcertification.com/",
+    "local": "index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17",
+    "local": "wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2",
+    "local": "wp-includes/js/mediaelement/wp-mediaelement.min.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-includes/css/classic-themes.min.css?ver=6.2",
+    "local": "wp-includes/css/classic-themes.min.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1",
+    "local": "wp-content/plugins/contact-form-7/includes/css/styles.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.7.0",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/simple-testimonials-showcase/public/css/simple-testimonials-showcase-public.css?ver=1.1.4",
+    "local": "wp-content/plugins/simple-testimonials-showcase/public/css/simple-testimonials-showcase-public.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/themes/twentytwentyone/style.css?ver=1682005618",
+    "local": "wp-content/themes/twentytwentyone/style.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1682005618",
+    "local": "wp-content/themes/twentytwentyone/assets/css/print.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/modules/theme-tools/compat/twentytwentyone.css?ver=12.0",
+    "local": "wp-content/plugins/jetpack/modules/theme-tools/compat/twentytwentyone.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/css/jetpack.css?ver=12.0",
+    "local": "wp-content/plugins/jetpack/css/jetpack.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.3",
+    "local": "wp-includes/js/jquery/jquery.min.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0",
+    "local": "wp-includes/js/jquery/jquery-migrate.min.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2022/12/favicon.png",
+    "local": "wp-content/uploads/2022/12/favicon.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2022/12/apjcert-logo.png",
+    "local": "wp-content/uploads/2022/12/apjcert-logo.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/about-us/",
+    "local": "about-us/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/our-vision-mission-values/",
+    "local": "our-vision-mission-values/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/our-partners/",
+    "local": "our-partners/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/accreditations/",
+    "local": "accreditations/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/clients-testimonial/",
+    "local": "clients-testimonial/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/blog/",
+    "local": "blog/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-90012015/",
+    "local": "iso-90012015/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-140012015/",
+    "local": "iso-140012015/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-450012018/",
+    "local": "iso-450012018/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-270012013/",
+    "local": "iso-270012013/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-500012011/",
+    "local": "iso-500012011/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-220002005/",
+    "local": "iso-220002005/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-227162007/",
+    "local": "iso-227162007/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-200002011/",
+    "local": "iso-200002011/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/iso-134852016/",
+    "local": "iso-134852016/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/haccp/",
+    "local": "haccp/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/consass-audit/",
+    "local": "consass-audit/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/shms-audit/",
+    "local": "shms-audit/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/risk-management-audit/",
+    "local": "risk-management-audit/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/audit-process-flow/",
+    "local": "audit-process-flow/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/impartiality-policy/",
+    "local": "impartiality-policy/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/terms-conditions-use-of-mark/",
+    "local": "terms-conditions-use-of-mark/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/complaints/",
+    "local": "complaints/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/audit-application-form/",
+    "local": "audit-application-form/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/sample-certs/",
+    "local": "sample-certs/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/foundation-courses/",
+    "local": "foundation-courses/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/lead-implementer-courses/",
+    "local": "lead-implementer-courses/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/transition-courses/",
+    "local": "transition-courses/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/internal-auditor-training/",
+    "local": "internal-auditor-training/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/lead-auditor-courses/",
+    "local": "lead-auditor-courses/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/contact-us/",
+    "local": "contact-us/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/contact-info/",
+    "local": "contact-info/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/enquiry/",
+    "local": "enquiry/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-90012015/",
+    "local": "category/iso-90012015/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-140012015/",
+    "local": "category/iso-140012015/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-450012018/",
+    "local": "category/iso-450012018/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-270012013/",
+    "local": "category/iso-270012013/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-500012011/",
+    "local": "category/iso-500012011/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-220002005/",
+    "local": "category/iso-220002005/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-227162007/",
+    "local": "category/iso-227162007/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-200002011/",
+    "local": "category/iso-200002011/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/iso-134852016/",
+    "local": "category/iso-134852016/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/category/haccp/",
+    "local": "category/haccp/index.html",
+    "page": true,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1",
+    "local": "wp-content/plugins/contact-form-7/includes/swv/js/index.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1",
+    "local": "wp-content/plugins/contact-form-7/includes/js/index.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/simple-testimonials-showcase/public/js/simple-testimonials-showcase-public.js?ver=1.1.4",
+    "local": "wp-content/plugins/simple-testimonials-showcase/public/js/simple-testimonials-showcase-public.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.8",
+    "local": "wp-content/themes/twentytwentyone/assets/js/polyfills.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1682005618",
+    "local": "wp-content/themes/twentytwentyone/assets/js/primary-navigation.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1682005618",
+    "local": "wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-includes/js/mediaelement/mejs-controls.svg",
+    "local": "wp-includes/js/mediaelement/mejs-controls.svg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0",
+    "local": "_external/maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/simple-testimonials-showcase/public/images/ajax-loader.gif",
+    "local": "wp-content/plugins/simple-testimonials-showcase/public/images/ajax-loader.gif",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png",
+    "local": "wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png",
+    "local": "wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png",
+    "local": "wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png",
+    "local": "wp-content/plugins/jetpack/modules/shortcodes/images/expand.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png",
+    "local": "wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "https://secure.gravatar.com/images/grav-share-sprite.png",
+    "local": "_external/secure.gravatar.com/images/grav-share-sprite.png",
+    "page": false,
+    "status": "failed",
+    "error": "curl: (22) The requested URL returned error: 404\r\n"
+  },
+  {
+    "url": "https://secure.gravatar.com/images/grav-share-sprite-2x.png",
+    "local": "_external/secure.gravatar.com/images/grav-share-sprite-2x.png",
+    "page": false,
+    "status": "failed",
+    "error": "curl: (22) The requested URL returned error: 404\r\n"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-208x300.jpg",
+    "local": "wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-208x300.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-709x1024.jpg",
+    "local": "wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-709x1024.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-1063x1536.jpg",
+    "local": "wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-1063x1536.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-1418x2048.jpg",
+    "local": "wp-content/uploads/2023/01/AO-2019-29-APJ-Certification-1418x2048.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/AO-2019-29-APJ-Certification.jpg",
+    "local": "wp-content/uploads/2023/01/AO-2019-29-APJ-Certification.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/vision1.png",
+    "local": "wp-content/uploads/2023/01/vision1.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/mission1.png",
+    "local": "wp-content/uploads/2023/01/mission1.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/values1.png",
+    "local": "wp-content/uploads/2023/01/values1.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/vision1-150x150.png",
+    "local": "wp-content/uploads/2023/01/vision1-150x150.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/mission1-150x150.png",
+    "local": "wp-content/uploads/2023/01/mission1-150x150.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/values1-150x150.png",
+    "local": "wp-content/uploads/2023/01/values1-150x150.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-212x300.jpg",
+    "local": "wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-212x300.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-725x1024.jpg",
+    "local": "wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-725x1024.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-768x1085.jpg",
+    "local": "wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-768x1085.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-1087x1536.jpg",
+    "local": "wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT-1087x1536.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT.jpg",
+    "local": "wp-content/uploads/2023/01/APJ-AUTHORISED-REPRESENTATIVE-CERT.jpg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.13-PM-150x127.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.13-PM-150x127.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.50-PM-150x91.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.50-PM-150x91.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.56.29-PM.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.56.29-PM.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.52.31-PM.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.52.31-PM.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.51.42-PM.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.51.42-PM.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.13-PM.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.13-PM.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.50-PM.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.50.50-PM.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/wp-client-logo-carousel/includes/client-carousel.css?ver=1.0",
+    "local": "wp-content/plugins/wp-client-logo-carousel/includes/client-carousel.css",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/wp-client-logo-carousel/includes/client-carousel.js?ver=6.2",
+    "local": "wp-content/plugins/wp-client-logo-carousel/includes/client-carousel.js",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.52.31-PM-300x126.jpeg",
+    "local": "wp-content/uploads/2023/01/WhatsApp-Image-2022-12-30-at-1.52.31-PM-300x126.jpeg",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2022/12/aud2-279x300.png",
+    "local": "wp-content/uploads/2022/12/aud2-279x300.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2022/12/aud2.png",
+    "local": "wp-content/uploads/2022/12/aud2.png",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/Audit-Application-Review_-Form-5A-version-1.pdf",
+    "local": "wp-content/uploads/2023/01/Audit-Application-Review_-Form-5A-version-1.pdf",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/uploads/2023/01/Audit-Application-Review_-Form-5B-version-0.pdf",
+    "local": "wp-content/uploads/2023/01/Audit-Application-Review_-Form-5B-version-0.pdf",
+    "page": false,
+    "status": "ok"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/wp-client-logo-carousel/img/grabbing.png",
+    "local": "wp-content/plugins/wp-client-logo-carousel/img/grabbing.png",
+    "page": false,
+    "status": "failed",
+    "error": "curl: (22) The requested URL returned error: 404\r\n"
+  },
+  {
+    "url": "http://www.apjcertification.com/wp-content/plugins/wp-client-logo-carousel/img/AjaxLoader.gif",
+    "local": "wp-content/plugins/wp-client-logo-carousel/img/AjaxLoader.gif",
+    "page": false,
+    "status": "failed",
+    "error": "curl: (22) The requested URL returned error: 404\r\n"
+  }
+]
