@@ -1,0 +1,43 @@
+/* APJ: navy structure, teal actions, gold highlights, violet learning accents. */
+:root{--brand-navy:#142c4e;--brand-teal:#087d7b;--brand-gold:#e6b65c;--brand-violet:#6850a1;--brand-ink:#24364d;--brand-muted:#52647b;--brand-line:#dce4ee;--global--color-background:#f6f8fc;--global--color-primary:#24364d;--global--color-secondary:#142c4e;--global--color-dark-gray:#24364d;--global--color-green:#087d7b}
+body,body[data-training]{background:#f6f8fc;color:var(--brand-ink);font-family:Arial,Helvetica,sans-serif}
+body::before{content:"";display:block;height:5px;background:linear-gradient(90deg,#142c4e 0 48%,#087d7b 48% 76%,#e6b65c 76% 90%,#6850a1 90%)}
+body .site-header,body[data-training] .site-header{padding-top:25px;padding-bottom:26px}
+body .site-logo img,body[data-training] .site-logo img{width:360px;max-width:100%;height:auto}
+body .primary-navigation a{color:#142c4e;font-size:15px;font-weight:600}
+body .primary-navigation a:hover,body .primary-navigation .current-menu-item>a{color:#087d7b}
+body a{color:#087d7b}body h1,body h2,body h3,body h4{color:#142c4e}
+body a:focus-visible,body button:focus-visible{outline:3px solid #b77e1e;outline-offset:4px}
+body .widget-area{border-top-color:#dce4ee}body .site-footer{border-top:1px solid #dce4ee}
+body .site-footer .site-logo img{width:280px}
+body button:not(.sub-menu-toggle):not(.button):not(.apj-link-button):not(.apj-dialog-close),body input[type=submit]{border-radius:7px}
+body[data-training]{--apj-green:#087d7b;--apj-dark:#142c4e;--apj-cream:#f6f8fc;--apj-muted:#52647b}
+.apj-hero{background:linear-gradient(120deg,#edf3fb 0%,#f2f8f8 66%,#faf4e9 100%);border-color:#dce4ee;box-shadow:0 16px 48px #142c4e06}
+.apj-hero h1 em{color:#087d7b}.apj-eyebrow{color:#087d7b}
+.apj-hero aside{background:linear-gradient(150deg,#142c4e,#203f64);border-bottom:5px solid #e6b65c}
+.apj-hero aside strong{color:#fff}.apj-hero aside p{color:#dbe8f4}.apj-hero-symbol{color:#e6b65c}
+.apj-training .apj-btn{background:#087d7b;border-color:#087d7b;color:#fff}
+.apj-training .apj-btn:hover{background:#075f60;border-color:#075f60;color:#fff}
+.apj-training .apj-btn-outline{background:#fff;color:#087d7b}.apj-training .apj-btn-outline:hover{background:#e5f4f2;color:#075f60}
+.apj-text-link,.apj-cart-link{color:#087d7b}.apj-cart-link{background:#fff;border-color:#c6d8e5}.apj-cart-link span{background:#e5f4f2;color:#075f60}
+.apj-training-nav{border-color:#dce4ee}.apj-training-nav a{color:#52647b}.apj-training-nav a[aria-current]{color:#087d7b;border-color:#087d7b}
+.apj-filters{background:#edf1f8;border:1px solid #dce4ee}
+.apj-training label{color:#24364d}.apj-training input,.apj-training select,.apj-training textarea{border-color:#c5d1df;color:#24364d;accent-color:#087d7b}
+.apj-card{border-color:#dce4ee;border-top:3px solid #087d7b;box-shadow:0 4px 16px #142c4e04}
+.apj-card:hover{box-shadow:0 12px 28px #142c4e10}
+.apj-card .apj-badge{background:#e5f4f2;color:#076361}
+.apj-card[data-track="Lead Auditor"],.apj-card[data-track="Lead Verifier"]{border-top-color:#4067ab}
+.apj-card[data-track="Lead Auditor"] .apj-badge,.apj-card[data-track="Lead Verifier"] .apj-badge{background:#eaf0fc;color:#30548e}
+.apj-card[data-track="Foundation"],.apj-card[data-track="Transition"]{border-top-color:#b77e1e}
+.apj-card[data-track="Foundation"] .apj-badge,.apj-card[data-track="Transition"] .apj-badge{background:#fcf1dc;color:#805813}
+.apj-card[data-track="Health & Safety"],.apj-card[data-track="Lead Implementer"]{border-top-color:#6850a1}
+.apj-card[data-track="Health & Safety"] .apj-badge,.apj-card[data-track="Lead Implementer"] .apj-badge{background:#f0ebfa;color:#604394}
+.apj-muted,.apj-small,.apj-card p,.apj-results-bar p,.apj-category-title p,.apj-method-grid p,.apj-faq details p{color:#52647b}
+.apj-method-grid a{color:#142c4e;border-color:#cad6e6}.apj-method-grid span{color:#087d7b}.apj-method-grid a:nth-child(3n+2) span{color:#91631a}.apj-method-grid a:nth-child(3n) span{color:#6850a1}
+.apj-team{background:#eaf0f9;border-left:5px solid #e6b65c}.apj-faq details,.apj-card-footer{border-color:#dce4ee}
+.apj-summary{background:#edf1fa;border:1px solid #dce4ee;border-top:4px solid #6850a1}.apj-summary-row{border-color:#d1dcec}
+.apj-panel,.apj-participant{background:#fff;border-color:#dce4ee}.apj-steps li{background:#eaf0f7;color:#52647b}.apj-steps li.active{background:#142c4e;color:#fff;border-color:#e6b65c}
+.apj-empty{background:#edf3fb}.apj-success{background:#e5f4f2;color:#075f60}.apj-confirm-check{color:#087d7b}
+.apj-dialog{color:#24364d}.apj-dialog::backdrop{background:#142c4eaa}.apj-dialog .apj-dialog-close{background:#edf1f8;color:#142c4e}
+.apj-training .apj-link-button,.apj-training .apj-link-button:hover,.apj-training .apj-link-button:focus{color:#087d7b!important}
+@media(max-width:700px){body .site-logo img,body[data-training] .site-logo img{width:310px}.apj-training-nav{max-width:100%}.apj-training,.apj-hero,.apj-hero>div,.apj-checkout-layout>div{min-width:0}.apj-training h1{overflow-wrap:break-word}.apj-section-heading{flex-wrap:wrap}}

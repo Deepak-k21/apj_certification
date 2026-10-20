@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { brandPage } from './brand.mjs';
 const catalog=JSON.parse(fs.readFileSync('data/catalog.json','utf8'));
 for(const standard of ['ISO 9001:2015','ISO 14001:2026','ISO 45001:2018','ISO 27001:2022','ISO 22000:2018','ISO 50001:2018'])for(const track of ['Foundation','Lead Implementer']){
  const id='apj-'+standard.toLowerCase().replace(/[^a-z0-9]+/g,'-')+'-'+track.toLowerCase().replaceAll(' ','-');
@@ -29,6 +30,6 @@ for(const [slug,[title,track]] of Object.entries(routes)){
 // Connect every existing header to the training hub without changing the other pages.
 function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(d=>d.isDirectory()?walk(path.join(dir,d.name)):[path.join(dir,d.name)]);}
 const pages={};
-for(const file of walk('public').filter(f=>f.endsWith('.html'))){let html=fs.readFileSync(file,'utf8');html=html.replace(/(<li id="menu-item-150"[^>]*><a href=")[^"]*(">Training<\/a>)/,'$1/training/$2');fs.writeFileSync(file,html);const route='/'+path.relative('public',file).replaceAll('\\','/').replace(/index.html$/,'');pages[route]=html;}
+for(const file of walk('public').filter(f=>f.endsWith('.html'))){let html=brandPage(fs.readFileSync(file,'utf8'));html=html.replace(/(<li id="menu-item-150"[^>]*><a href=")[^"]*(">Training<\/a>)/,'$1/training/$2');fs.writeFileSync(file,html);const route='/'+path.relative('public',file).replaceAll('\\','/').replace(/index.html$/,'');pages[route]=html;}
 fs.writeFileSync('lib/legacy-pages.json',JSON.stringify(pages));
 console.log(`Generated ${Object.keys(routes).length} training pages; ${catalog.length} courses; ${Object.keys(pages).length} preserved routes.`);

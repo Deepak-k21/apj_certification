@@ -5,8 +5,8 @@ export const metadata: Metadata = {
   title: "APJ Certification — Training & Registration",
   description: "Management systems, auditing and workplace safety training with APJ Certification.",
   icons: {
-    icon: "/wp-content/uploads/2022/12/favicon.png",
-    shortcut: "/wp-content/uploads/2022/12/favicon.png",
+    icon: "/brand/favicon.svg",
+    shortcut: "/brand/favicon.svg",
   },
 };
 
