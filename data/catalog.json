@@ -1426,5 +1426,236 @@
     "priceMinor": null,
     "sessions": [],
     "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-concrete-testing-technology",
+    "title": "Concrete and New Technologies in Concrete Testing",
+    "standard": "Structural supervision",
+    "description": "Review concrete properties, site quality checks and developing methods used to assess concrete performance.",
+    "learningOutcomes": [
+      "Recognise key properties of fresh and hardened concrete and common acceptance checks",
+      "Compare established sampling and testing with selected non-destructive and digital methods",
+      "Identify when test results, site records or unexpected findings require escalation"
+    ],
+    "audience": "Resident engineers, resident technical officers and construction supervisors involved in concrete works.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-confined-space-awareness",
+    "title": "Confined Space Awareness",
+    "standard": "Workplace safety",
+    "description": "Recognise confined-space hazards and the controls that support safe planning, entry and supervision.",
+    "learningOutcomes": [
+      "Identify confined spaces and common atmospheric, access and work activity hazards",
+      "Explain the purpose of risk assessment, entry permits, monitoring and communication",
+      "Recognise emergency arrangements and situations that require work to stop"
+    ],
+    "audience": "REs, RTOs and site supervisors who may coordinate or oversee work near confined spaces.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-formwork-design-supervision",
+    "title": "Design Safety of Formwork Structures and Supervision",
+    "standard": "Structural supervision",
+    "description": "Explore temporary works design responsibilities and the site checks needed before, during and after formwork use.",
+    "learningOutcomes": [
+      "Recognise loads, stability risks and the role of an approved formwork design",
+      "Review erection, inspection, alteration and concreting hold points",
+      "Document departures from design and escalate concerns to the responsible professional"
+    ],
+    "audience": "REs, RTOs and supervisors involved in formwork and concrete construction.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-geopolymer-self-compacting-concrete",
+    "title": "Geopolymer and Self-Compacting Concrete: Basic Concepts",
+    "standard": "Structural supervision",
+    "description": "Understand how alternative binders and self-compacting mixes affect production, placement and quality verification.",
+    "learningOutcomes": [
+      "Describe basic materials and performance considerations for geopolymer concrete",
+      "Explain flowability, segregation resistance and placement considerations for self-compacting concrete",
+      "Identify trial mix, testing and site documentation questions for project teams"
+    ],
+    "audience": "REs, RTOs and construction personnel reviewing non-conventional concrete specifications.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-precast-ppvc-post-tensioning",
+    "title": "Critical Supervision of Precast, PPVC and Post-Tensioning Works",
+    "standard": "Structural supervision",
+    "description": "Focus on inspection and coordination points for prefabricated components, volumetric modules and post-tensioned elements.",
+    "learningOutcomes": [
+      "Identify fabrication, lifting, installation and connection checks for precast and PPVC works",
+      "Recognise tendon, anchorage, stressing and grouting supervision points",
+      "Record non-conformances and coordinate hold points with designers and specialist contractors"
+    ],
+    "audience": "REs, RTOs and supervisors involved in precast, PPVC or post-tensioning works.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-safe-welding-techniques",
+    "title": "Safe Welding Techniques",
+    "standard": "Workplace safety",
+    "description": "Review welding hazards, preparation and controls for safer hot work on construction sites.",
+    "learningOutcomes": [
+      "Recognise fire, fume, electrical and eye hazards associated with welding",
+      "Review hot-work permits, isolation, ventilation, fire watch and protective equipment",
+      "Identify inspection and reporting steps for unsafe conditions or defective welds"
+    ],
+    "audience": "Site supervisors and RE/RTO personnel overseeing welding or steelwork activities.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-safe-formwork-erection",
+    "title": "Safety in Formwork Erection",
+    "standard": "Workplace safety",
+    "description": "Examine safe sequences and supervision practices for erecting, altering and dismantling formwork.",
+    "learningOutcomes": [
+      "Identify instability, falling-object and work-at-height risks during formwork erection",
+      "Review safe work procedures, temporary bracing, lifting and access arrangements",
+      "Recognise inspection and handover checks before loading or concreting"
+    ],
+    "audience": "REs, RTOs, formwork supervisors and construction site teams.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-ev-fire-hazards",
+    "title": "Electric Vehicle Safe Use and Fire Hazard Prevention Workshop",
+    "standard": "Workplace safety",
+    "description": "Introduce electric-vehicle and charging-system hazards relevant to workplaces and construction facilities.",
+    "learningOutcomes": [
+      "Recognise charging, damaged-battery and electrical hazards",
+      "Discuss site arrangements for inspection, isolation and emergency communication",
+      "Identify escalation steps and the limits of a non-specialist response to an EV incident"
+    ],
+    "audience": "REs, RTOs, facility teams and supervisors responsible for work areas with EVs or chargers.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-design-for-safety-regulations",
+    "title": "WSH Design for Safety Regulations",
+    "standard": "Workplace safety",
+    "description": "Understand how design-stage risk reviews and information sharing support safer construction and maintenance.",
+    "learningOutcomes": [
+      "Describe the purpose and participants of Design for Safety reviews",
+      "Recognise design risks that should be eliminated or reduced before work starts",
+      "Understand how residual risks and precautions are recorded and communicated"
+    ],
+    "audience": "REs, RTOs, designers, project managers and construction supervisors.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-demolition-safety",
+    "title": "Safety in Demolition Works",
+    "standard": "Workplace safety",
+    "description": "Review demolition planning, structural stability and site controls for work near existing structures.",
+    "learningOutcomes": [
+      "Identify survey, sequencing and temporary support questions before demolition",
+      "Recognise risks from falling debris, utilities, adjacent structures and plant movement",
+      "Review supervision, exclusion-zone and emergency arrangements"
+    ],
+    "audience": "REs, RTOs and supervisors involved in demolition or alteration works.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
+  },
+  {
+    "id": "apj-re-rto-foundation-supervision",
+    "title": "Supervision Challenges in Foundation Works",
+    "standard": "Structural supervision",
+    "description": "Explore construction and inspection challenges in piling, excavation and other foundation activities.",
+    "learningOutcomes": [
+      "Recognise ground-condition, excavation, piling and groundwater risks",
+      "Identify key inspection records, test results and deviations that need review",
+      "Coordinate reporting and escalation when site conditions differ from design assumptions"
+    ],
+    "audience": "REs, RTOs and construction supervisors involved in foundation works.",
+    "track": "RE/RTO Renewal",
+    "referencePathway": "APJ",
+    "category": "RE/RTO renewal",
+    "referenceUrl": null,
+    "referenceBrochure": null,
+    "referenceDuration": null,
+    "priceMinor": null,
+    "sessions": [],
+    "availability": "enquiry"
   }
 ]

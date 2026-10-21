@@ -21,7 +21,9 @@ Star Academy: https://staracademy.com.sg/ and https://register.staracademy.com.s
 
 ## Adaptation
 
-APJ keeps its green palette, logo and original non-training pages. Its Training navigation now opens /training/. Existing five training URLs are populated and filter the shared catalogue. The hub provides search, level/pathway filters, detail dialogs, provider brochure links, comparison of learning levels and FAQs. Twelve APJ enquiry entries populate Foundation and Lead Implementer pathways.
+APJ uses its navy, teal, gold and violet branding across the original and training pages. Its Training navigation now opens /training/. The hub provides search, level/pathway filters, detail dialogs, provider brochure links, comparison of learning levels and FAQs. Twelve APJ enquiry entries populate Foundation and Lead Implementer pathways. Eleven proposed RE/RTO renewal topics have a dedicated /re-rto-renewal-courses/ page, individual descriptions, learning outcomes and audience guidance. Their final syllabi, STU approval, certificates, dates, fees and delivery remain to be confirmed by APJ.
+
+RE/RTO terminology and safety context were checked against the [IES/ACES C&S RE/RTO Registry](https://www.ies.org.sg/registries/ies-aces-c-s-re-rto-registry/), the [IES continuing education guidelines](https://www.ies.org.sg/wp-content/uploads/Continuing-Education-System.pdf), [BCA site supervisor guidance](https://www1.bca.gov.sg/safety-and-standards/applications-and-licenses/permit-for-structural-works/requirements-on-site-supervisor-and-framework-for-risk-based-inspection/), and [MOM workplace safety legislation](https://www.mom.gov.sg/legislation/workplace-safety-and-health). These sources support the topic framing; they do not establish approval for any APJ course.
 
 Registration uses durable D1 records, HttpOnly session ownership, server validation and idempotent retries. Unknown fees/dates produce a request awaiting a quote, not a zero-cost booking. Participant data is not stored in browser local storage. The course cart only stores course IDs, session selections and counts in session storage.
 

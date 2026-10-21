@@ -1,6 +1,6 @@
 # APJ Certification replica
 
-APJ website with the original public pages preserved and a new training catalogue, registration workflow, D1 storage and Razorpay integration. Includes 90 reference training entries from TVE and 12 APJ Foundation / Lead Implementer enquiry entries. All five existing training URLs now have content; `/training/` is the main catalogue and `/training-registration/` is the registration flow.
+APJ website with the original public pages preserved and a training catalogue, registration workflow, D1 storage and Razorpay integration. The catalogue includes 90 reference entries from TVE, 12 APJ Foundation / Lead Implementer enquiry entries, and 11 proposed APJ RE/RTO renewal topics. `/training/` is the main catalogue, `/re-rto-renewal-courses/` lists the RE/RTO topics, and `/training-registration/` handles requests.
 
 ## Run
 
@@ -12,14 +12,14 @@ npm run training:build
 npm run dev
 ```
 
-Open the printed local URL, normally http://127.0.0.1:5173. Run `npm run check` to validate all 46 HTML routes and `npm test` for registration/payment tests.
+Open the printed local URL, normally http://127.0.0.1:5173. Run `npm run check` to validate all 47 HTML routes and `npm test` for catalogue, registration and payment tests.
 
 Build with `npm run build`. For a new local checkout, apply `drizzle/0000_big_black_knight.sql` once using the local D1 command in `PAYMENT-SETUP.md` or the Sites starter documentation. `npm start` serves the built Worker. Local preview and hosted D1 databases are separate.
 
 ## Files
 
 - `public/`: original website pages/assets and training frontend.
-- `data/catalog.json`: complete course catalogue; `data/offerings.json`: confirmed prices and sessions (currently unconfigured).
+- `data/catalog.json`: generated course catalogue; `data/re-rto-courses.json`: RE/RTO course descriptions and learning outcomes; `data/offerings.json`: confirmed prices and sessions (currently unconfigured).
 - `scripts/build-training.mjs`: renders training pages and regenerates the HTML route map.
 - `lib/training-core.mjs`: registration validation, D1 persistence, Razorpay order/verification/webhook handling.
 - `app/api/training/[...path]/route.ts`: hosted server endpoints.

@@ -32,6 +32,10 @@ body[data-training]{--apj-green:#087d7b;--apj-dark:#142c4e;--apj-cream:#f6f8fc;-
 .apj-card[data-track="Foundation"] .apj-badge,.apj-card[data-track="Transition"] .apj-badge{background:#fcf1dc;color:#805813}
 .apj-card[data-track="Health & Safety"],.apj-card[data-track="Lead Implementer"]{border-top-color:#6850a1}
 .apj-card[data-track="Health & Safety"] .apj-badge,.apj-card[data-track="Lead Implementer"] .apj-badge{background:#f0ebfa;color:#604394}
+.apj-card[data-track="RE/RTO Renewal"]{border-top-color:#142c4e}
+.apj-card[data-track="RE/RTO Renewal"] .apj-badge{background:#eaf0f9;color:#142c4e}
+.apj-card .apj-card-description{font-size:13px;line-height:1.5;color:#354b63;margin-top:0}
+.apj-dialog .apj-course-description{margin-top:16px;color:#354b63}
 .apj-muted,.apj-small,.apj-card p,.apj-results-bar p,.apj-category-title p,.apj-method-grid p,.apj-faq details p{color:#52647b}
 .apj-method-grid a{color:#142c4e;border-color:#cad6e6}.apj-method-grid span{color:#087d7b}.apj-method-grid a:nth-child(3n+2) span{color:#91631a}.apj-method-grid a:nth-child(3n) span{color:#6850a1}
 .apj-team{background:#eaf0f9;border-left:5px solid #e6b65c}.apj-faq details,.apj-card-footer{border-color:#dce4ee}
