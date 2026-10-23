@@ -69,7 +69,7 @@ export default defineConfig(async ({ command }) => {
         inspectorPort: false,
         config: {
           ...(standaloneCloudflare
-            ? { main: "./build/cloudflare-worker.ts", compatibility_flags: ["nodejs_compat"] }
+            ? { main: "./build/cloudflare-worker.ts" }
             : localBindingConfig),
           ...(!standaloneCloudflare && command === "serve"
             ? {
