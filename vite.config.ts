@@ -17,7 +17,6 @@ const standaloneCloudflare = process.env.APJ_DEPLOY_TARGET === "cloudflare";
 
 const localBindingConfig = {
   main: "./build/sites-worker.ts",
-  compatibility_flags: ["nodejs_compat"],
   d1_databases: d1
     ? [
         {

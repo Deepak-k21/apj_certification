@@ -1,6 +1,8 @@
-# APJ Certification replica
+# APJ Certification
 
-APJ website with the original public pages preserved and a training catalogue, registration workflow, D1 storage and Razorpay integration. The catalogue includes 90 reference entries from TVE, 12 APJ Foundation / Lead Implementer enquiry entries, and 11 proposed APJ RE/RTO renewal topics. `/training/` is the main catalogue, `/re-rto-renewal-courses/` lists the RE/RTO topics, and `/training-registration/` handles requests.
+APJ website with a navy-and-teal redesign, responsive navigation, 75 routes, course and certification registration, D1 storage and Razorpay integration. The public catalogue contains 12 APJ Foundation / Lead Implementer enquiry pathways and the 11 supplied RE/RTO renewal topics. Third-party reference courses are excluded from the public catalogue and registration API. Original APJ documents, policies, contact information and service menus are retained.
+
+`/training/` is the main catalogue; `/training-registration/` lists courses and accepts participant requests; `/certification-registration/` accepts organisation, scope and standard details; `/payment-process/` explains quotation and payment. Consultancy has been removed from the navigation and site content. The Readdy preview supplied by the owner was used as the visual reference, not as the source for APJ business claims, contact data or fees.
 
 ## Run
 
@@ -12,7 +14,7 @@ npm run training:build
 npm run dev
 ```
 
-Open the printed local URL, normally http://127.0.0.1:5173. Run `npm run check` to validate all 47 HTML routes and `npm test` for catalogue, registration and payment tests.
+Open the printed local URL, normally http://127.0.0.1:5173. Run `npm run check` to validate all 75 HTML routes and `npm test` for catalogue, course/certification registration and payment tests.
 
 Build with `npm run build`. For a new local checkout, apply `drizzle/0000_big_black_knight.sql` once using the local D1 command in `PAYMENT-SETUP.md` or the Sites starter documentation. `npm start` serves the built Worker. Local preview and hosted D1 databases are separate.
 
@@ -32,9 +34,10 @@ The training catalogue works without a database. To enable registration storage,
 
 ## Files
 
-- `public/`: original website pages/assets and training frontend.
+- `public/`: redesigned pages, locally hosted design imagery and Inter font, original APJ documents/assets and registration frontend.
 - `data/catalog.json`: generated course catalogue; `data/re-rto-courses.json`: RE/RTO course descriptions and learning outcomes; `data/offerings.json`: confirmed prices and sessions (currently unconfigured).
-- `scripts/build-training.mjs`: renders training pages and regenerates the HTML route map.
+- `scripts/build-training.mjs`, `scripts/build-design.mjs`, `scripts/site-design.mjs`, `scripts/registration-design.mjs`: regenerate the complete site from the source content and design system.
+- `data/page-content.json`: retained original APJ page content; `data/certification-standards.json`: certification menu and application options copied from APJ's published standard labels.
 - `lib/training-core.mjs`: registration validation, D1 persistence, Razorpay order/verification/webhook handling.
 - `app/api/training/[...path]/route.ts`: hosted server endpoints.
 - `db/schema.ts` and `drizzle/`: database schema and migration.
@@ -51,6 +54,6 @@ The public website does not expose its WordPress database, administration, or em
 
 Four ancillary plugin image URLs were unavailable at the source (two Gravatar sharing sprites and two carousel cursor/loading images). Unavailable decoration references are replaced by native CSS fallbacks; all page content images and downloadable documents are included. Original source text, including blank or minimal source pages, is preserved.
 
-The original enquiry/contact forms remain email-draft adapters. New training registrations are stored server-side and are not sent as email automatically. Razorpay is implemented but intentionally disabled until actual course offers and merchant credentials are configured. No live gateway transaction has been verified. No third-party accreditation is asserted as APJ's own.
+Enquiry/contact forms prepare email drafts. Course and certification registrations are stored server-side and are not emailed automatically. Certification applications share the existing `registrations` table with `kind: certification`, so no additional schema migration is required. Razorpay is implemented but disabled until actual offers and merchant credentials are configured. No live gateway transaction has been verified. No third-party accreditation is asserted as APJ's own. Public standard editions retain APJ's published labels; APJ must confirm the applicable edition before application or enrolment.
 
 Do not run the old capture script over the full-stack project; it is retained for provenance only. It targets `dist/` and is no longer the application build command.

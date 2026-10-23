@@ -2,6 +2,10 @@
 
 The user selected Razorpay but does not yet have an account. The application intentionally does not accept live payments now.
 
+The website includes a visible `/payment-process/` page, course registration at `/training-registration/`, and organisation applications at `/certification-registration/`. Both kinds of request begin without a confirmed price and collect no payment. Certification applications are stored in the existing `registrations` table, with `details.kind` set to `certification`. Their `APJC-` reference distinguishes them from course requests.
+
+Certification quotations require an APJ operator to confirm the scope, currency and fee. There is no public endpoint that lets a visitor set an application price. After a quotation is accepted, an operator must securely update the record's confirmed total/currency and status through an administrative workflow before checkout can be enabled. Do not use browser-supplied amounts. Configure the merchant environment and verify checkout with test credentials before collecting money.
+
 ## Configure course offers
 
 In `data/offerings.json`, add an entry under `courses` using an existing ID from `data/catalog.json`:

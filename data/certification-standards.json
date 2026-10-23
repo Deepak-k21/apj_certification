@@ -1,0 +1,12 @@
+[
+  {"id":"iso-9001-2015","name":"ISO 9001:2015","subject":"Quality management"},
+  {"id":"iso-14001-2015","name":"ISO 14001:2015","subject":"Environmental management"},
+  {"id":"iso-45001-2018","name":"ISO 45001:2018","subject":"Occupational health & safety"},
+  {"id":"iso-27001-2013","name":"ISO 27001:2013","subject":"Information security"},
+  {"id":"iso-50001-2011","name":"ISO 50001:2011","subject":"Energy management"},
+  {"id":"iso-22000-2005","name":"ISO 22000:2005","subject":"Food safety management"},
+  {"id":"iso-22716-2007","name":"ISO 22716:2007","subject":"Cosmetics — Good manufacturing practices"},
+  {"id":"iso-20000-2011","name":"ISO 20000:2011","subject":"IT service management"},
+  {"id":"iso-13485-2016","name":"ISO 13485:2016","subject":"Medical devices quality management"},
+  {"id":"haccp","name":"HACCP","subject":"Food safety hazard controls"}
+]
