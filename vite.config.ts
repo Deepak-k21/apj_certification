@@ -13,6 +13,7 @@ const { d1, r2 } = hostingConfig;
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
 const managedLinux = readExecutionProfile() === "managed-linux";
+const standaloneCloudflare = process.env.APJ_DEPLOY_TARGET === "cloudflare";
 
 const localBindingConfig = {
   main: "./build/sites-worker.ts",
@@ -62,14 +63,15 @@ export default defineConfig(async ({ command }) => {
     },
     plugins: [
       vinext(),
-      sites({ mockAuth: !managedLinux }),
-      connectorPreview(),
+      ...(!standaloneCloudflare ? [sites({ mockAuth: !managedLinux }), connectorPreview()] : []),
       cloudflare({
         viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] },
         inspectorPort: false,
         config: {
-          ...localBindingConfig,
-          ...(command === "serve"
+          ...(standaloneCloudflare
+            ? { main: "./build/cloudflare-worker.ts", compatibility_flags: ["nodejs_compat"] }
+            : localBindingConfig),
+          ...(!standaloneCloudflare && command === "serve"
             ? {
                 services: [
                   {
@@ -81,7 +83,7 @@ export default defineConfig(async ({ command }) => {
               }
             : {}),
         },
-        ...(command === "serve"
+        ...(!standaloneCloudflare && command === "serve"
           ? {
               auxiliaryWorkers: [
                 {
