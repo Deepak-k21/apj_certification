@@ -6,7 +6,7 @@ navigation?.querySelectorAll('a').forEach(link=>link.addEventListener('click',cl
 document.addEventListener('keydown',event=>{if(event.key==='Escape'){document.querySelectorAll('.nav-dropdown[open]').forEach(el=>el.open=false);if(document.body.classList.contains('menu-open')){closeMenu();toggle?.focus();}}});
 document.addEventListener('click',event=>{document.querySelectorAll('.nav-dropdown[open]').forEach(el=>{if(!el.contains(event.target))el.open=false;});});
 document.querySelectorAll('.nav-dropdown').forEach(dropdown=>dropdown.addEventListener('toggle',()=>{if(dropdown.open)document.querySelectorAll('.nav-dropdown').forEach(other=>{if(other!==dropdown)other.open=false;});}));
-window.matchMedia('(min-width:961px)').addEventListener('change',event=>{if(event.matches)closeMenu();});
+window.matchMedia('(min-width:1181px)').addEventListener('change',event=>{if(event.matches)closeMenu();});
 const journeyTabs=[...document.querySelectorAll('[data-journey]')];
 function selectJourney(tab){journeyTabs.forEach(button=>{const selected=tab===button;button.setAttribute('aria-selected',String(selected));button.tabIndex=selected?0:-1;document.getElementById(button.getAttribute('aria-controls')).hidden=!selected;});}
 journeyTabs.forEach((tab,index)=>{tab.addEventListener('click',()=>selectJourney(tab));tab.addEventListener('keydown',event=>{if(['ArrowLeft','ArrowRight','Home','End'].includes(event.key)){event.preventDefault();const next=event.key==='Home'?0:event.key==='End'?journeyTabs.length-1:(index+(event.key==='ArrowRight'?1:-1)+journeyTabs.length)%journeyTabs.length;selectJourney(journeyTabs[next]);journeyTabs[next].focus();}});});
