@@ -1,0 +1,121 @@
+{
+  "generationMethod": "Built-in image_gen",
+  "purpose": "Illustrative course imagery, not photographs of APJ staff or facilities.",
+  "assets": [
+    {
+      "courseId": "apj-re-rto-concrete-testing-technology",
+      "prompt": "Use case: photorealistic-natural. Subject: Concrete cube specimens, steel slump cone and a laboratory technician inspecting concrete on a materials testing bench. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-concrete-testing-technology.webp"
+    },
+    {
+      "courseId": "apj-re-rto-confined-space-awareness",
+      "prompt": "Use case: photorealistic-natural. Subject: A supervised confined-space safety setup at an open industrial tank access hatch, atmospheric gas detector prominently visible and a rescue tripod nearby; two technicians outside the hatch in hard hats and high visibility clothing, nobody inside the tank. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-confined-space-awareness.webp"
+    },
+    {
+      "courseId": "apj-re-rto-formwork-design-supervision",
+      "prompt": "Use case: photorealistic-natural. Subject: A site engineer in a hard hat reviewing structural drawings beside clearly visible braced concrete wall formwork, timber and steel supports and reinforcement bars at an organised construction site. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-formwork-design-supervision.webp"
+    },
+    {
+      "courseId": "apj-re-rto-geopolymer-self-compacting-concrete",
+      "prompt": "Use case: photorealistic-natural. Subject: Close editorial view of a circular concrete flow test on a steel plate with a lifted slump cone, fresh self-compacting concrete spreading smoothly, labelled-free specimen cubes and aggregate trays on a clean construction materials research bench. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-geopolymer-self-compacting-concrete.webp"
+    },
+    {
+      "courseId": "apj-re-rto-precast-ppvc-post-tensioning",
+      "prompt": "Use case: photorealistic-natural. Subject: A precast modular concrete building unit being positioned by a crane, with appropriate lifting gear and exclusion barriers; two construction engineers in hard hats observing from a safe distance, clearly recognisable prefabricated volumetric construction. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-precast-ppvc-post-tensioning.webp"
+    },
+    {
+      "courseId": "apj-re-rto-safe-welding-techniques",
+      "prompt": "Use case: photorealistic-natural. Subject: A professional welder wearing a full welding helmet, gloves and protective clothing performing a controlled weld on a steel fabrication bench, visible small welding arc and sparks, extraction hood and welding screens in an orderly workshop. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-safe-welding-techniques.webp"
+    },
+    {
+      "courseId": "apj-re-rto-safe-formwork-erection",
+      "prompt": "Use case: photorealistic-natural. Subject: Construction supervisors in full protective equipment inspecting assembled timber slab formwork with steel shoring props, stable bracing, guarded work platform and a clearly organised construction area, no dangerous activity. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-safe-formwork-erection.webp"
+    },
+    {
+      "courseId": "apj-re-rto-ev-fire-hazards",
+      "prompt": "Use case: photorealistic-natural. Subject: A modern electric vehicle connected to an EV charging station in a clean commercial parking area; electrical safety inspection equipment and a technician inspecting the charger from the side, cable routed safely, no fire or smoke. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-ev-fire-hazards.webp"
+    },
+    {
+      "courseId": "apj-re-rto-design-for-safety-regulations",
+      "prompt": "Use case: photorealistic-natural. Subject: Architectural and structural engineers reviewing a building model and construction drawings around a large table, one hard hat and safety planning checklist with unreadable text, modern engineering project office. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-design-for-safety-regulations.webp"
+    },
+    {
+      "courseId": "apj-re-rto-demolition-safety",
+      "prompt": "Use case: photorealistic-natural. Subject: An excavator with a hydraulic demolition attachment beside a partially dismantled concrete structure, prominent exclusion barriers and dust control mist, viewed from a safe distance, no exposed workers in the operating area. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-demolition-safety.webp"
+    },
+    {
+      "courseId": "apj-re-rto-foundation-supervision",
+      "prompt": "Use case: photorealistic-natural. Subject: A geotechnical construction engineer wearing hard hat and high visibility vest standing safely near a large piling rig and steel reinforcement cages at a foundation works site, visible deep foundation construction equipment. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-re-rto-foundation-supervision.webp"
+    },
+    {
+      "courseId": "apj-iso-9001-2015-foundation",
+      "prompt": "Use case: photorealistic-natural. Subject: quality inspection of manufactured metal components with a digital caliper and checklist on a tidy factory bench. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-9001-2015-foundation.webp"
+    },
+    {
+      "courseId": "apj-iso-9001-2015-lead-implementer",
+      "prompt": "Use case: photorealistic-natural. Subject: manufacturing process engineers reviewing quality control records beside an organised production line. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-9001-2015-lead-implementer.webp"
+    },
+    {
+      "courseId": "apj-iso-14001-2015-foundation",
+      "prompt": "Use case: photorealistic-natural. Subject: environmental specialist checking clean water samples in a green industrial landscape. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-14001-2015-foundation.webp"
+    },
+    {
+      "courseId": "apj-iso-14001-2015-lead-implementer",
+      "prompt": "Use case: photorealistic-natural. Subject: environmental management team reviewing a wastewater treatment facility from a safe guarded platform. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-14001-2015-lead-implementer.webp"
+    },
+    {
+      "courseId": "apj-iso-45001-2018-foundation",
+      "prompt": "Use case: photorealistic-natural. Subject: a neatly organised selection of hard hat, safety glasses, protective gloves and hearing protection on an industrial training table. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-45001-2018-foundation.webp"
+    },
+    {
+      "courseId": "apj-iso-45001-2018-lead-implementer",
+      "prompt": "Use case: photorealistic-natural. Subject: a workplace safety supervisor inspecting machine guarding and an emergency stop at a modern factory. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-45001-2018-lead-implementer.webp"
+    },
+    {
+      "courseId": "apj-iso-27001-2013-foundation",
+      "prompt": "Use case: photorealistic-natural. Subject: a cybersecurity trainer at a secure computer workstation with abstract unreadable security dashboards. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-27001-2013-foundation.webp"
+    },
+    {
+      "courseId": "apj-iso-27001-2013-lead-implementer",
+      "prompt": "Use case: photorealistic-natural. Subject: an information security engineer reviewing access controls in a well-organised server room. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-27001-2013-lead-implementer.webp"
+    },
+    {
+      "courseId": "apj-iso-22000-2005-foundation",
+      "prompt": "Use case: photorealistic-natural. Subject: a food safety technician wearing hygienic clothing and hairnet inspecting fresh produce with sampling equipment. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-22000-2005-foundation.webp"
+    },
+    {
+      "courseId": "apj-iso-22000-2005-lead-implementer",
+      "prompt": "Use case: photorealistic-natural. Subject: food production quality managers wearing hygiene clothing inspecting a clean stainless steel food processing line. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-22000-2005-lead-implementer.webp"
+    },
+    {
+      "courseId": "apj-iso-50001-2011-foundation",
+      "prompt": "Use case: photorealistic-natural. Subject: an energy specialist measuring electricity use with a clamp meter and energy monitoring equipment beside a closed industrial panel. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-50001-2011-foundation.webp"
+    },
+    {
+      "courseId": "apj-iso-50001-2011-lead-implementer",
+      "prompt": "Use case: photorealistic-natural. Subject: an engineer reviewing a rooftop solar installation and industrial energy monitoring equipment. Premium editorial photograph for an APJ Certification course cover, landscape 16:9. Clear central composition, realistic equipment and safe work practices, natural daylight, restrained navy, grey and realistic natural colours, highly detailed clean professional photography. Illustrative scene, do not imply an actual APJ facility or person. No legible words, brands, logos, watermarks, certificates, borders or collages.",
+      "outputPath": "public/brand/courses/apj-iso-50001-2011-lead-implementer.webp"
+    }
+  ]
+}

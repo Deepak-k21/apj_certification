@@ -1,0 +1,17 @@
+{
+  "name": "APJ Certification",
+  "email": "Admin@apjcert.com",
+  "phone": "+65 9185 7296",
+  "addressLine1": "Blk 530, Bukit Batok Street 51",
+  "addressLine2": "#03-36, Singapore 650530",
+  "logoSrc": "/brand/apj-official-logo.jpg",
+  "accreditation": {
+    "certificateNumber": "AO-2019-29",
+    "issueNumber": "7",
+    "issueDate": "13 November 2025",
+    "expiryDate": "17 January 2027",
+    "uen": "53247146J",
+    "documentSrc": "/brand/documents/apj-accreditation-ao-2019-29.pdf",
+    "previewSrc": "/brand/documents/apj-accreditation-schedule.png"
+  }
+}

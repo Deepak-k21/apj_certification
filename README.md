@@ -38,6 +38,8 @@ The training catalogue works without a database. To enable registration storage,
 - `data/catalog.json`: generated course catalogue; `data/re-rto-courses.json`: RE/RTO course descriptions and learning outcomes; `data/offerings.json`: confirmed prices and sessions (currently unconfigured).
 - `scripts/build-training.mjs`, `scripts/build-design.mjs`, `scripts/site-design.mjs`, `scripts/registration-design.mjs`: regenerate the complete site from the source content and design system.
 - `data/page-content.json`: retained original APJ page content; `data/certification-standards.json`: certification menu and application options copied from APJ's published standard labels.
+- `data/company.json`: supplied official logo, corrected Bukit Batok address and supplied accreditation schedule metadata. The original accreditation PDF is available under `public/brand/documents/`; the superseded certificate image is no longer shown on the accreditation page.
+- `data/course-media.json`: 23 distinct subject-specific course covers shared by the API, catalogue, homepage and course detail pages. WebP assets live in `public/brand/courses/`; `research/course-image-briefs.json` records the built-in image-generation prompts. These are illustrative images, not photographs of APJ staff or facilities.
 - `lib/training-core.mjs`: registration validation, D1 persistence, Razorpay order/verification/webhook handling.
 - `app/api/training/[...path]/route.ts`: hosted server endpoints.
 - `db/schema.ts` and `drizzle/`: database schema and migration.
