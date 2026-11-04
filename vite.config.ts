@@ -66,7 +66,8 @@ export default defineConfig(async ({ command }) => {
       cloudflare({
         viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] },
         inspectorPort: false,
-        config: {
+        config: (resolvedConfig) => {
+          Object.assign(resolvedConfig, {
           ...(standaloneCloudflare
             ? { main: "./build/cloudflare-worker.ts" }
             : localBindingConfig),
@@ -81,6 +82,7 @@ export default defineConfig(async ({ command }) => {
                 ],
               }
             : {}),
+          });
         },
         ...(!standaloneCloudflare && command === "serve"
           ? {

@@ -2,5 +2,6 @@
   "currency": "SGD",
   "timezone": "Asia/Singapore",
   "paymentsEnabled": false,
-  "courses": {}
+  "courses": {},
+  "paymentMode": "manual"
 }
